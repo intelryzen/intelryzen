@@ -1,6 +1,6 @@
 # About Me
 
-check out my [personal page](https://seungsik.page.link/go).
+Hello. Check out my [personal page](https://seungsik.page.link/go).
 
 <!--
 **intelryzen/intelryzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
