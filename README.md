@@ -16,7 +16,7 @@ I'm **Seungsik Woo** ([@intelryzen](https://github.com/intelryzen)).
 
 `Sep 2023` 2nd Place in the Future Finance A.I. Challenge
 
-### Portfolio
+### Projects
 
 <table>
   <tr>
