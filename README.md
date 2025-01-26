@@ -3,7 +3,7 @@
 I'm **Seungsik Woo** ([@intelryzen](https://github.com/intelryzen)). I'm developing various apps using Flutter. My dream is to become a traveling entrepreneur rather than a skilled developer.  
 
 <a href="https://softable.me"><img src="https://github.com/user-attachments/assets/222ce36e-d7cf-4c80-a8e5-ec69ebfb748e" width="42" height="42"></a>
-<a href="https://seungsik.page.link/go"><img src="https://github.com/intelryzen/intelryzen/assets/66426612/8158af3b-d15b-4f41-be44-961bae6eb22a" width="42" height="42"></a>
+<a href="https://trail-heart-f77.notion.site/Seungsik-Woo-e2cee00162444c6e8489aecdd77a7382?pvs=4"><img src="https://github.com/intelryzen/intelryzen/assets/66426612/8158af3b-d15b-4f41-be44-961bae6eb22a" width="42" height="42"></a>
 <a href="mailto:softabledev@gmail.com"><img src="https://github.com/intelryzen/intelryzen/assets/66426612/0899b497-c373-440e-89b6-4acecda11e19" width="42" height="42"></a>
 
 ### Interests
