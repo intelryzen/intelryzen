@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm **Seungsik Woo** ([@intelryzen](https://github.com/intelryzen)). I'm developing various apps using Flutter. My dream is to become a traveling entrepreneur rather than a skilled developer.  
+I'm **Seungsik Woo** ([@intelryzen](https://github.com/intelryzen)). I'm developing various apps using Flutter. <br/>My dream is to become a traveling entrepreneur rather than a skilled developer.  
 
 <a href="https://softable.me"><img src="https://github.com/user-attachments/assets/222ce36e-d7cf-4c80-a8e5-ec69ebfb748e" width="42" height="42"></a>
 <a href="https://trail-heart-f77.notion.site/Seungsik-Woo-e2cee00162444c6e8489aecdd77a7382?pvs=4"><img src="https://github.com/intelryzen/intelryzen/assets/66426612/8158af3b-d15b-4f41-be44-961bae6eb22a" width="42" height="42"></a>
@@ -16,7 +16,7 @@ I'm **Seungsik Woo** ([@intelryzen](https://github.com/intelryzen)). I'm develop
 `Dec 2020` 1st Place in the KBSC Software Development Competition
 
 `Sep 2023` 2nd Place in the Future Finance A.I. Challenge
-
+<!--
 ### Projects
 
 <table>
@@ -65,7 +65,7 @@ I'm **Seungsik Woo** ([@intelryzen](https://github.com/intelryzen)). I'm develop
     </td>
   </tr>
 </table>
-
+-->
 <!--
 **intelryzen/intelryzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
